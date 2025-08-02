@@ -3,7 +3,20 @@ These are stencils for the FAKE project.
 *GENDER IS FAKE*
 Gender is a construct that is used to force people to conform to societal norms about what we can wear, how we can 
 behave, who we can fuck, what kind of job we're allowed to aspire to, and so much other insane bullshit that has nothing to do with your genitalia.
-![Elon Musk making a nazi salute](gender%20is%20fake.png.png)
+
+I chose Elon doing the Nazi salute for this because he's a vacuous Nazi who hates trans people.  In a
+better world, Elon would come to terms with his gender issues (does tons of K, is a low T femme boy, serious traumatic unresolved egg vibes) but instead we have this shit.
+<image src="gender%20is%20fake.png.png" width="400"/>
+
+Huge shout out to https://www.stencilcreator.org for making this.
+<image src="gender%20is%20fake%20final.svg" width="400"/>
+
+The 2x version is printable in four pieces on a 250x250 bed.  Use PETG, and glue it together with the tabs using E6000 or crazy glue.
+<image src="Gender_is_fake_2x.jpeg.png" width="400"/>
+
+The mobile version comes with a nifty little handle and a case so you can whip it out, spray paint it onto a surface, and slip it back into the case.  No muss, no fuss.
+
+
 
 *GOD IS FAKE*
 I went through a religious phase as a youth, but I now know that god is fake too.  It's something we tell ourselves so that we can feel some
