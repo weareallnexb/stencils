@@ -3,7 +3,7 @@ These are stencils for the FAKE project.
 *GENDER IS FAKE*
 Gender is a construct that is used to force people to conform to societal norms about what we can wear, how we can 
 behave, who we can fuck, what kind of job we're allowed to aspire to, and so much other insane bullshit that has nothing to do with your genitalia.
-![Elon Musk making a nazi salute](gender is fake.png.png)
+![Elon Musk making a nazi salute](gender%20is%20fake.png.png)
 
 *GOD IS FAKE*
 I went through a religious phase as a youth, but I now know that god is fake too.  It's something we tell ourselves so that we can feel some
